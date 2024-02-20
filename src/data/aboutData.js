@@ -1,6 +1,5 @@
 export const aboutData = {
-    title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
-    image: 2
+    title: "Who am I",
+    description1: "My name's Dinesh Mannari. I'm a software developer based in Indiana, USA",
+    description2: "At O'Neil Public Health School, I advanced data pipeline integrity and crafted a recommender system, utilizing analytics and knowledge graphs. My role at Kent Displays significantly enhanced app functionality with smart tech. At IKS Healthcare, I streamlined medical document processes and improved API efficiency, boosting operational performance. At Ingram Micro, I developed security solutions and enhanced digital asset protection. My project on a Wellness Tracking System, using MERN stack, underscored my full-stack development skills and ability to implement cloud solutions, demonstrating a strong ability to apply technology for impactful outcomes."
 }
