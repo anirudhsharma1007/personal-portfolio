@@ -3,5 +3,5 @@ export const contactsData = {
     phone: '+18128039344',
     address: '1150 S clarizz Blvd, Indiana, Bloomington 47401 ',
 
-    sheetAPI: ''
+    sheetAPI: 'https://sheetdb.io/api/v1/4kpbr9e43fs92'
 }
