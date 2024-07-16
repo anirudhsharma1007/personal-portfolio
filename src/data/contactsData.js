@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'dinesh.109808@gmail.com',
-    phone: '+18128039344',
+    email: 'sharma.anirudh.1007@gmail.com',
+    phone: '+1812873451',
     address: '1150 S clarizz Blvd, Indiana, Bloomington 47401 ',
 
-    sheetAPI: 'https://sheetdb.io/api/v1/4kpbr9e43fs92'
+    sheetAPI: 'https://sheetdb.io/api/v1/sipbof111f4ku'
 }

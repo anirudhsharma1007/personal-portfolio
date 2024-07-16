@@ -3,9 +3,9 @@ import image from '../assets/pdf/new1.jpeg'
 
 
 export const headerData = {
-    name: 'Dinesh Mannari',
+    name: 'Anirudh Sharma',
     title: "Software Developer",
-    desciption:"A Computer Science enthusiast with a knack for full-stack development and data science. With advanced degrees from Indiana University and the University of Mumbai, my expertise spans across Python, Java, JavaScript, React, and .NET.",
+    desciption:"A Computer Science enthusiast with a knack for full-stack development and data science. With advanced degrees from Indiana University and Guru Gobind Singh Indraprastha University, my expertise spans across Python, Java, JavaScript, React, and .NET.",
     image: image,
     resumePdf: resume
 }
