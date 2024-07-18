@@ -3,7 +3,7 @@
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Healtcare Management System',
+        projectName: 'Healthcare Management System',
         projectDesc: "Crafted and launched a HIPAA-compliant Appointment Management System featuring advanced access control",
         tags: ['Asp.net core', "REST API", "MSSQL", "Vue.js"],
         image: ' '
