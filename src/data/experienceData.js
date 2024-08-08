@@ -2,7 +2,7 @@ export const experienceData = [
     {
         id: 4,
         company: 'Department of Linguistics: Indiana University Bloomington',
-        jobtitle: 'Machine Learning Engineer',
+        jobtitle: 'Software Engineer',
         startYear: 'Dec 2023',
         endYear: 'Present'
     },
