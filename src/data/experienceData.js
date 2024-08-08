@@ -1,17 +1,24 @@
 export const experienceData = [
     {
-        id: 4,
+        id: 5,
         company: 'Department of Linguistics: Indiana University Bloomington',
         jobtitle: 'Software Engineer',
         startYear: 'Dec 2023',
         endYear: 'Present'
     },
     {
-        id: 3,
+        id: 4,
         company: 'Department of Linguistics: Indiana University Bloomington',
         jobtitle: 'Application Developer Intern',
         startYear: 'June 2023 ',
         endYear: 'December 2023'
+    },
+    {
+        id: 3,
+        company: 'Marlabs Inc.',
+        jobtitle: 'Software Engineer ',
+        startYear: 'November 2021',
+        endYear: 'June 2022'
     },
     {
         id: 2,
