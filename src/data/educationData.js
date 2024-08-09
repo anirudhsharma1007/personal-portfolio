@@ -2,9 +2,7 @@ export const educationData = [
     {
         id: 1,
         institution: 'GGSIPU, Delhi',
-        course: 'Bachelor of Technology in Computer Science',
-        startYear: '2015',
-        endYear: '2019'
+        course: 'Bachelor of Technology in Computer Science'
     },
     {
         id: 2,
